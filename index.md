@@ -11,7 +11,9 @@ in an editor
 
 My [README](/README) file!!
 
-My favorite programming language is [Python](https://www.python.org/)
+My favorite programming language is [Python](https://www.python.org/) because... it is easy to work with!!
+
+I am a current senior at UCSD and I enjoy back-end programming that makes use of creatively produced algorithms though I would pass on the math portion of it all :( Most of my pastime is spent hanging out with friends and reading. I hope to learn a lot about algorithms and theories for producing them through this course!
 
 
 
